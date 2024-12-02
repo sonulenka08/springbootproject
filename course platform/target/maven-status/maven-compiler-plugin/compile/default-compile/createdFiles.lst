@@ -1,0 +1,16 @@
+course\CrudbootApplication.class
+course\service\StudentServiceImpl.class
+course\WebSecurityConfig.class
+course\entity\Student.class
+course\controller\IndexController.class
+course\service\CourseServiceImpl.class
+course\controller\SignupController.class
+course\entity\User.class
+course\controller\UserController.class
+course\entity\Course.class
+course\service\UserServiceImpl.class
+course\controller\CourseController.class
+course\controller\StudentController.class
+course\repository\CourseRepository.class
+course\repository\UserRepository.class
+course\repository\StudentRepository.class
